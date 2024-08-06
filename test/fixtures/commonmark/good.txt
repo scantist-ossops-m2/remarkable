@@ -5546,3 +5546,11 @@ Multiple     spaces
 <p>Multiple     spaces</p>
 .
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+src line: 5550
+
+.
+[xss](javascript:alert(1))
+.
+<p>[xss](javascript:alert(1))</p>
+.
